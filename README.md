@@ -19,5 +19,5 @@ I used converted images (DICOM - PNG) from this dataset: https://www.kaggle.com/
 # Getting started
 Please create python enviroment with the following libraries:
 - numpy
-- opencv
+- opencv / skimage
 - matplotlib

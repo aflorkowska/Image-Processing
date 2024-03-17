@@ -1,5 +1,5 @@
-# Image-Processing
-This repo contains explanation of some image processing techniques. If you find something not clear, please let me know. 
+# Image processing techniques
+This repo contains explanation of some image processing techniques, that are usefull for example for data preprocessing before application of machine learning algorthims or neutral networks. If you find something not clear, please let me know. 
 
 My proposition order of topics:
 1. Image as matrix

@@ -42,7 +42,7 @@ Eduardo Farina, FelipeKitamura. (2022). UNIFESP X-ray Body Part Classifier Compe
 
 Użyłam także przekonwertowanych danych (DICOM - PNG) ze zbioru: https://www.kaggle.com/datasets/ibombonato/xray-body-images-in-png-unifesp-competion/data
 
-# Getting started
+# Konfiguracja
 Proszę, stwórz środowisko Pythona z zainstalowanymi poniższymi bibliotekami:
 - numpy
 - opencv / skimage

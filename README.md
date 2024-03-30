@@ -20,6 +20,12 @@ Eduardo Farina, FelipeKitamura. (2022). UNIFESP X-ray Body Part Classifier Compe
 
 I used converted images (DICOM - PNG) from this dataset: https://www.kaggle.com/datasets/ibombonato/xray-body-images-in-png-unifesp-competion/data
 
+# :books: Recommendations
+I encourage you to get familiar with the following books:
+- "Computer Vision: Algorithms and Applications" by R.Szeliski (http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
+- "Digital Image Processing" by R. Gonzalez and R.Woods
+- "Image Processing and Analysis" by T.Chan and J.Shen
+  
 # :computer: Getting started
 Please create python enviroment with the following libraries:
 - numpy
@@ -49,6 +55,12 @@ Bazowałam na obrazach z poniższego zbioru danych:
 Eduardo Farina, FelipeKitamura. (2022). UNIFESP X-ray Body Part Classifier Competition. Kaggle. https://kaggle.com/competitions/unifesp-x-ray-body-part-classifier
 
 Użyłam także przekonwertowanych danych (DICOM - PNG) ze zbioru: https://www.kaggle.com/datasets/ibombonato/xray-body-images-in-png-unifesp-competion/data
+
+# :books: Literatura
+Zachęcam do zapoznania się z poniższymi pozycjami:
+- "Computer Vision: Algorithms and Applications" by R.Szeliski (http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
+- "Digital Image Processing" by R. Gonzalez and R.Woods
+- "Image Processing and Analysis" by T.Chan and J.Shen
 
 # :computer: Konfiguracja
 Proszę, stwórz środowisko Pythona z zainstalowanymi poniższymi bibliotekami:

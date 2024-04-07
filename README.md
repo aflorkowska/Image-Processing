@@ -5,7 +5,7 @@ This repo contains explanation of some image processing techniques, that are use
 The list of described topics: 
 1. Image as matrix
 2. Derivative and gradient.
-3. Filters: median, uniform and gaussian
+3. Image filtering.
 4. Fourier transformation.
 5. Morphological operations
 6. Histogram equalization and matching
@@ -40,11 +40,11 @@ Repozytorium zawiera wyjaśnienie niektórych technik przetwarzania obrazów, kt
 Lista opisanych tematów:
 1. Obraz jako macierz.
 2. Pochodna i gradient.
-3. Filtracja.
+3. Filtracja obrazu.
 4. Transformacja Fouriera
 5. Operacje morfologiczne.
 6. Histogram - wyrównanie i dopasowanie.
-7. Segmentacja - progowanie, algorytmy rozrostu lokalnego i globalnego, algorytm detekcji krawędzi (Canny'ego).
+7. Segmentacja - progowanie, algorytmy rozrostu lokalnego i globalnego, algorytm detekcji krawędzi Canny'ego.
 8. Interpolacja i macierze transformacji.
 9. Wczytywanie danych medycznych.
 

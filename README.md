@@ -1,4 +1,3 @@
-## ENGLISH VERSION
 # :bar_chart: Image processing techniques
 This repo contains explanation of some image processing techniques, that are usefull for example for data preprocessing before application of machine learning algorthims or neutral networks. If you find something unclear, please let me know. 
 

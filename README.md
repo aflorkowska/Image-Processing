@@ -20,7 +20,7 @@ I used converted images (DICOM - PNG) from this dataset: https://www.kaggle.com/
 
 # :books: Recommendations
 I encourage you to get familiar with the following books:
-- "Computer Vision: Algorithms and Applications" by R.Szeliski (http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
+- "Computer Vision: Algorithms and Applications" by R.Szeliski (http://szeliski.org/Book/)
 - "Digital Image Processing" by R. Gonzalez and R.Woods
 - "Image Processing and Analysis" by T.Chan and J.Shen
 

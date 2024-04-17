@@ -11,12 +11,13 @@ The list of described topics, not only in english (ENG), as well as in polish (P
 7. Segmentation - thresholding, global and local region growing and Canny edge detector
 8. Interpolation and transformation matrixes.
 9. Medical data loading.
+10. Features extraction.
 
 # :file_folder: Dataset
-I based on some images from the following dataset:
+I based on some images from the following datasets:
 Eduardo Farina, FelipeKitamura. (2022). UNIFESP X-ray Body Part Classifier Competition. Kaggle. https://kaggle.com/competitions/unifesp-x-ray-body-part-classifier
-
-I used converted images (DICOM - PNG) from this dataset: https://www.kaggle.com/datasets/ibombonato/xray-body-images-in-png-unifesp-competion/data
+Prostate Cancer Imaging from the National Cancer Institute. Kaggle. https://www.kaggle.com/datasets/sshikamaru/world-wide-covid-dataset/data
+I used also converted images (DICOM - PNG) from  X-ray Body Part dataset: https://www.kaggle.com/datasets/ibombonato/xray-body-images-in-png-unifesp-competion/data
 
 # :books: Recommendations
 I encourage you to get familiar with the following books:

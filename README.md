@@ -16,7 +16,6 @@ The list of described topics, not only in english (ENG), as well as in polish (P
 # :file_folder: Dataset
 I based on some images from the following datasets:
 - Eduardo Farina, FelipeKitamura. (2022). UNIFESP X-ray Body Part Classifier Competition. Kaggle. https://kaggle.com/competitions/unifesp-x-ray-body-part-classifier. I used also converted images (DICOM - PNG) from  X-ray Body Part dataset: https://www.kaggle.com/datasets/ibombonato/xray-body-images-in-png-unifesp-competion/data
-- Prostate Cancer Imaging from the National Cancer Institute. Kaggle. https://www.kaggle.com/datasets/sshikamaru/world-wide-covid-dataset/data
 - RSNA STR Pulmonary Embolism Detection - Classify Pulmonary Embolism cases in chest CT scans. Kaggle: https://www.kaggle.com/competitions/rsna-str-pulmonary-embolism-detection
 
 

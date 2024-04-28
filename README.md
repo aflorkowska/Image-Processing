@@ -2,15 +2,15 @@
 This repo contains explanation of some image processing techniques, that are usefull for example for data preprocessing before application of machine learning algorthims or neutral networks. If you find something unclear, please let me know. 
 
 The list of described topics, not only in english (ENG), as well as in polish (PL).  
-1. Image as matrix
+1. Image as matrix.
 2. Derivative and gradient.
 3. Image filtering.
 4. Fourier transformation.
-5. Morphological operations
-6. Histogram equalization and matching
-7. Segmentation - thresholding, global and local region growing and Canny edge detector
+5. Morphological operations.
+6. Histogram equalization and matching.
+7. Segmentation - thresholding, global and local region growing and Canny edge detector.
 8. Interpolation and transformation matrixes.
-9. Medical data loading.
+9. Medical data loading - DICOM format.
 10. Features extraction.
 
 # :file_folder: Dataset
